@@ -4,7 +4,7 @@ import sys, os
 version = '0.1'
 
 setup(
-    name='my_bug_test',
+    name='main',
     version=version,
     description="None",
     long_description="""\
@@ -16,7 +16,7 @@ setup(
     url='',
     license='',
     packages=find_packages(exclude=['ez_setup', 'examples', 'tests']),
-    namespace_packages=['the_p'],
+    namespace_packages=['p'],
     include_package_data=True,
     zip_safe=False,
     install_requires=[

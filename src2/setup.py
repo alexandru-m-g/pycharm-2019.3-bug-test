@@ -4,7 +4,7 @@ import sys, os
 version = '0.1'
 
 setup(
-    name='my_bug_test',
+    name='my_bug_test_2',
     version=version,
     description="None",
     long_description="""\
