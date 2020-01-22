@@ -14,7 +14,13 @@
     
 1. Activate namespace package:
 
+    `python setup.py develop`
+
     `cd src1/`
+    
+    `python setup.py develop`
+    
+    `cd ../src2/`
     
     `python setup.py develop`
     
