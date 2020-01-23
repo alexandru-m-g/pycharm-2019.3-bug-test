@@ -5,6 +5,9 @@
     `git clone git@github.com:alexandru-m-g/pycharm-2019.3-bug-test.git`
     
     `cd pycharm-2019.3-bug-test/`
+    
+    If necessary:
+    `git checkout SPECIFIC_BRANCH`
 
 1. Create new virtual env for python 2.7 (assuming virtualenv is installed)
 
